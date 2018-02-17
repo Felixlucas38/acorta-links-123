@@ -43,7 +43,7 @@ export default class Login extends React.Component {
         return (
             <div className="boxed-view">
                 <div className="boxed-view__box">
-                    <h1>Short Lnk</h1>
+                    <h1>Short Lnk App</h1>
                     {/* <p>Login to your account</p> */}
 
                     {/* <br /> */}
